@@ -1,5 +1,6 @@
 # Fivem-cleaner
-fivem cleaner for unban
+
+How to use:
 
 1. use the cleaner
 2. make new account
