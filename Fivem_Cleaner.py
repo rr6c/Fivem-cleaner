@@ -26,4 +26,5 @@ def Cleaner():
     shutil.rmtree(f"C:\\Users\\{user}\\AppData\\Local\\FiveM\\FiveM.app\\logs")
     time.sleep(0.8)
     input("Enter any key for close...")
+    
 Cleaner()
